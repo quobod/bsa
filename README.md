@@ -1,11 +1,11 @@
 #### A bullshit application
 
-_AA do nothing python gui app for reference._
+_A do nothing python gui app for reference._
 
 
 ---
 - Development Platform
-    - Ubuntu 20.04.2 LTS
+    - Ubuntu 21.10
 - IDE
     - Visual Studio Code v1.63.2
 - Python3
